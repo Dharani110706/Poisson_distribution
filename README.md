@@ -1,7 +1,8 @@
-                                                    Developed by : DHARANI SREE P
-                                                    Register number : 212224040071
-                                                    Department : B.E.(CSE)
-                                                    Date : 29/04/2025
+## Developed by : DHARANI SREE P
+## Register number : 212224040071
+## Department : B.E.(CSE)
+## Date : 29/04/2025
+
 # Fitting Poisson  distribution
 
 # Aim : 
@@ -38,6 +39,7 @@ The Poisson distribution is the discrete probability distribution of the number 
 ```
 DEVELOPED BY : DHARANI SREE P
 REG. NO. : 212224040071
+Department : B.E.(CSE)
 ```
 ```
 import numpy as np
